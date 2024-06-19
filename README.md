@@ -6,7 +6,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-anujsingh7906-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anujsingh7906/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-anujsingh0308-black?style=flat&logo=github)](https://github.com/anujsingh0308/)
 [![Email Badge](https://img.shields.io/badge/Email-rajawatanuj890@gmail.com-red?style=flat&logo=gmail)](mailto:rajawatanuj890@gmail.com)
-
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=anujsingh0308&color=blueviolet">
+<br />
+<br />
 Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through hands-on machine learning projects.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
