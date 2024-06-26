@@ -22,7 +22,7 @@ Welcome to my 🚀 GitHub! I'm passionate about leveraging technology to solve r
 * 🤔 Intrigued by the applications of Artificial Intelligence and developing innovative solutions.
 * 💬 Always up for a chat about tech, AI, or anything under the sun!
 * 📫 Reach out via [email](mailto:rajawatanuj890@gmail.com) for collaboration or queries.
-* 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1iSEWadbiqwYU8auvSjpvdp39WDut8Eim/view?usp=sharing).
+* 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1EM7ufzv5T8ZllDwPsKx8JbiK3WHYSmzr/view?usp=sharing).
 
 ## Skills
 ### Techincal Skills:
